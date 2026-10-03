@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of dizy/flarum-custom-smtp.** Not for installation: use [Packagist](https://packagist.org/packages/dizy/flarum-custom-smtp) or the [upstream repository](https://github.com/dizyzeng/flarum-custom-smtp).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/dizy-flarum-custom-smtp/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/dizy-flarum-custom-smtp/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2020-10-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/dizy-flarum-custom-smtp/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/dizy-flarum-custom-smtp.json](https://github.com/flarchive/archive-index/blob/main/packages/dizy-flarum-custom-smtp.json)
 
